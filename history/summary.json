@@ -4,17 +4,17 @@
     "url": "https://sysadminxpert.com",
     "icon": "https://favicons.githubusercontent.com/sysadminxpert.com",
     "slug": "sys-admin-xpert",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 1748,
-    "timeWeek": 1477,
-    "timeMonth": 900,
-    "timeYear": 486,
+    "time": 485,
+    "timeDay": 1639,
+    "timeWeek": 1425,
+    "timeMonth": 888,
+    "timeYear": 485,
     "dailyMinutesDown": {}
   }
 ]
